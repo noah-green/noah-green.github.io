@@ -4,4 +4,4 @@
 
 layout: default
 ---
-# Noah Green
+![profile picture]/profile.jpg
