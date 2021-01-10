@@ -4,4 +4,4 @@
 
 layout: default
 ---
-![profile picture](/profile.jpg)
+![profile picture](/assets/profile.jpg)
