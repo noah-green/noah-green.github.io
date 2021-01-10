@@ -2,4 +2,4 @@
 layout: default
 ---
 ![profile picture](/assets/profile.jpg)
-![My Resume](/assets/resume.pdf)
+[My Resume](/assets/resume.pdf)
