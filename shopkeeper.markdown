@@ -2,7 +2,7 @@
 layout: default
 ---
 # Shopkeeper
-A Discord bot for tabletop RPGs
+A Discord bot to automate shopping for items in tabletop RPGs.
 ## Why?
 When the COVID-19 pandemic hit, my Dungeons and Dragons group moved to Discord. We used other bots for things like music, and I became interested in them as tools for adapting and extending the Discord to fit your needs. My dungeon master, Austin, got bored whenever our party went into town to buy magic swords or healing potions. So I made a bot!
 # How?
