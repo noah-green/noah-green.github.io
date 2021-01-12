@@ -3,4 +3,4 @@ layout: default
 ---
 ![profile picture](/assets/profile.jpg)
 * [My Resume](/assets/resume.pdf)
-* [ShopKeeper](./shopkeeper.markdown)
+* [Shopkeeper](./shopkeeper.markdown)
