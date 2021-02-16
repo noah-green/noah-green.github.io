@@ -17,5 +17,6 @@ The dungeon master creates, opens, closes, and stocks these shops through a Goog
 The big idea of Shopkeeper is the pairing of the Google Sheets API with Discord bots. This allows Shopkeeper to be very database-light (though it still uses one to map spreadsheets to Discord servers). It also makes it very simple to create and control the content the players see.
 
 [Check out the code on my GitHub!](https://github.com/noah-green/shopkeeper)
+[Invite the bot to your server!](https://discord.com/api/oauth2/authorize?client_id=744694618544799845&permissions=76880&scope=bot)
 
 
