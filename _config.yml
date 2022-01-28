@@ -51,4 +51,4 @@ permalink: /:categories/:year/:month/:day/:title
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: mimima
+theme: jekyll-theme-cayman
