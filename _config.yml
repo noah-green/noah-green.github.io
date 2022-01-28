@@ -27,7 +27,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  noah-green
 
 # Build settings
-remote_theme: artemsheludko/zolan
 plugins:
   - jekyll-feed
 permalink: /:categories/:year/:month/:day/:title
@@ -52,4 +51,4 @@ permalink: /:categories/:year/:month/:day/:title
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-cayman
+theme: mimima
