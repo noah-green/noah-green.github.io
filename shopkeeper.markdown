@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+theme: cayman
 ---
 # Shopkeeper
 A Discord bot to automate shopping for items in tabletop RPGs.
