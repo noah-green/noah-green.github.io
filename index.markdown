@@ -1,5 +1,6 @@
 ---
 layout: home
+theme: cayman
 image: /assets/profile.jpg
 ---
 * [My Resume](/assets/resume.pdf)
